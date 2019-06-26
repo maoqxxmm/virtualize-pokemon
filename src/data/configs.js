@@ -1,0 +1,62 @@
+export const pokemonTypesEN = [
+  "normal",
+  "fire",
+  "water",
+  "grass",
+  "electric",
+  "ice",
+  "fighting",
+  "poison",
+  "ground",
+  "flying",
+  "psychic",
+  "bug",
+  "rock",
+  "ghost",
+  "dragon",
+  "dark",
+  "steel",
+  "fairy"
+];
+
+export const pokemonTypesCN = [
+  "一般",
+  "火",
+  "水",
+  "草",
+  "电",
+  "冰",
+  "格斗",
+  "毒",
+  "地面",
+  "飞行",
+  "超能力",
+  "虫",
+  "岩石",
+  "幽灵",
+  "龙",
+  "恶",
+  "钢",
+  "妖精"
+];
+
+export const pokemonTypeColorMap = {
+  normal: "#dcdcdc",
+  fire: "#ff6900",
+  water: "#14b9ff",
+  grass: "#b4f000",
+  electric: "#ffe100",
+  ice: "#14f5ff",
+  fighting: "#dc6900",
+  poison: "#d28cd2",
+  ground: "#fac85a",
+  flying: "#78dcff",
+  psychic: "#f08cdc",
+  bug: "#46c846",
+  rock: "#b48c64",
+  ghost: "#a08cff",
+  dragon: "#5078dc",
+  dark: "#787878",
+  steel: "#aac8f0",
+  fairy: "#ffafdc"
+};
