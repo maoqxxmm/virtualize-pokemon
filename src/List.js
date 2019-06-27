@@ -1,5 +1,5 @@
 import React from "react";
-import "./App.css";
+import "./List.css";
 // 数据来自 https://cn.portal-pokemon.com/play/pokedex
 import PokemonList from "./data/pokemon.json";
 import { pokemonTypeColorMap, pokemonTypesCN } from "./data/configs";
