@@ -1,7 +1,7 @@
 import React from "react";
 import ReactDOM from "react-dom";
 import "./index.css";
-import List from "./List";
+import List from "./components/List";
 import * as serviceWorker from "./serviceWorker";
 
 ReactDOM.render(<List />, document.getElementById("root"));
